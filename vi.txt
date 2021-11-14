@@ -1,0 +1,6 @@
+sdfksdf
+asflkjwlef
+sldfkejwlef
+
+
+exec vim "$@"
